@@ -1,6 +1,7 @@
 ### Olá! 👋
 
-Saudações! Sou Vinícius, um apaixonado desenvolvedor de software, dedicado a criar soluções inovadoras no mundo do desenvolvimento web. Minha paixão reside especialmente na criação de aplicativos dinâmicos usando Java e React para o desenvolvimento web. Estou constantemente explorando novas técnicas e padrões para melhorar minha habilidade e eficiência no desenvolvimento. Se você está interessado em colaborar em projetos empolgantes ou simplesmente quer trocar ideias, estou sempre aberto a novas conexões e oportunidades de aprendizado.
+Saudações! Sou Vinícius, um estudante de Ciência da Computação. Atualmente, meu foco de estudo está em Java e React para o desenvolvimento web. Estou constantemente explorando novas técnicas e padrões para melhorar minha habilidade e eficiência no desenvolvimento. Se você está interessado em colaborar em projetos empolgantes ou simplesmente quer trocar ideias, estou sempre aberto a novas conexões e oportunidades de aprendizado.
+
 
 ### Sobre Mim
 - 🌱 Atualmente, estou estagiando como Desenvolvedor Frontend na empresa Compass, focando em tecnologias como React e AWS.
