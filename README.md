@@ -4,7 +4,7 @@ Saudações! Sou Vinícius, um estudante de Ciência da Computação. Atualmente
 
 ### Sobre Mim
 - 👯 Estou procurando colaborar em projetos relacionados ao Framework Spring e desenvolvimento com React.js.
-- ☁️ [AWS Cloud Practitioner](https://www.linkedin.com/feed/update/urn:li:activity:7242976331225829377?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7242976331225829377%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B%2BLb%2BFCJZSfuF6UFvqeCH5w%3D%3D) 
+- ☁️ [AWS Cloud Practitioner](https://www.credly.com/badges/2185d2d5-39cf-4775-a599-a76c1a548c5e/public_url) 
 
 ### Linguagens e Ferramentas
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoWidth=40)
