@@ -26,5 +26,5 @@ Saudações! Sou Vinícius, um estudante de Ciência da Computação. Atualmente
 ### Contato
 - [vinigonzatofw@gmail.com](mailto:vinigonzatofw@gmail.com)
 - [Instagram](https://www.instagram.com/vini_agonzt/)
-- [Linkedin](www.linkedin.com/in/vinícius-andrade-gonzato-a7b033223)
+- [Linkedin](https://www.linkedin.com/in/vin%C3%ADcius-andrade-gonzato-a7b033223/)
 
